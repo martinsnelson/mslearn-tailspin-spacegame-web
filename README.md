@@ -1,3 +1,9 @@
+# Comandos usados:
+git remote -v
+dotnet build --configuration Release
+dotnet run --configuration Release --no-build --project Tailspin.SpaceGame.Web
+dotnet dev-certs https --trust
+
 
 # Contributing
 
